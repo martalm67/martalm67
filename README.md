@@ -1,5 +1,4 @@
-img src="assets/banner-github.png" alt="Banner de Marta Lavín" width="100%">
-
+<img src="banner-github.png" alt="Banner de Marta Lavín" width="100%">
 
 # Hola, soy Marta 👋
 
