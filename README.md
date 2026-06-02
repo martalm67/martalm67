@@ -17,7 +17,7 @@ Me interesa unir datos, tecnología y enfoque humano para crear soluciones útil
 
 ## Herramientas
 
-Excel · Python · SQL · Power BI · IA generativa · GitHub · Trello
+Excel · Python · SQL · Power BI · Tableua · IA generativa · GitHub · Trello
 
 ## Actualmente
 
