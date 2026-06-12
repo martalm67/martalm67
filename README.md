@@ -2,9 +2,9 @@
 
 # Hola, soy Marta 👋
 
-Soy estudiante de Psicología y me estoy formando en análisis de datos, inteligencia artificial, secretariado médico y asistencia virtual.
+Soy Data & AI Assistant junior, con formación en análisis de datos, agentes de IA y Psicología. Me interesa aplicar la tecnología con un enfoque humano, ayudando a organizar información, analizar datos, automatizar procesos y mejorar la atención al usuario.
 
-Me interesa unir datos, tecnología y enfoque humano para crear soluciones útiles, organizadas y fáciles de entender.
+Mi trayectoria profesional previa en seguridad, coordinación de servicios y gestión de incidencias me ha permitido desarrollar habilidades como la observación, la resolución de problemas, la comunicación, la responsabilidad y la atención al detalle. Actualmente estoy orientando mi carrera hacia proyectos digitales donde pueda combinar datos, inteligencia artificial y comprensión del comportamiento humano.
 
 ## Áreas que estoy desarrollando
 
@@ -17,7 +17,7 @@ Me interesa unir datos, tecnología y enfoque humano para crear soluciones útil
 
 ## Herramientas
 
-Excel · Python · SQL · Power BI · Tableua · IA generativa · GitHub · Trello
+Excel · Python · SQL · Power BI · Tableau · IA generativa · GitHub · Trello
 
 ## Actualmente
 
